@@ -74,6 +74,6 @@ Licensed under **MIT License** — see `LICENSE`.
 ---
 
 ## 💬 Contact
-- Discord: `YOUR_INVITE_LINK`
+- Discord: `https://discord.gg/pmfwVx7cwR`
 - GitHub Issues: Report bugs / ideas
 - Email: **hsharshvardhan065@gmail.com**
