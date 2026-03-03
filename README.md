@@ -7,42 +7,73 @@
 [![Email](https://img.shields.io/badge/Email-contact-blue?logo=gmail)](mailto:your.email@example.com)
 
 **Take control of your gaming identity.**  
-GuildVault is a cross‑platform dashboard that aggregates your gaming stats from Steam, Xbox, Epic Games, and more – and lets you share them with **granular privacy controls** that no existing platform offers.
+GuildVault is a cross-platform dashboard that aggregates your gaming stats from Steam, Xbox, Epic Games, and more – and lets you share them with **granular privacy controls**.
 
 ---
 
 ## ✨ Why GuildVault?
-Existing platforms (Steam, Discord, Xbox) force you to share everything with all friends, or nothing.  
-With GuildVault you can create **privacy zones** – custom friend circles like “Close Friends”, “Guild”, “Coworkers” – and decide exactly what each circle sees: current game, playtime, achievements, or nothing at all.  
-Plus: **temporary sharing** (24‑hour tournament stats), **end‑to‑end encrypted chat**, and a **privacy‑preserving session scheduler**.
+Existing platforms force you to share everything with everyone.  
+GuildVault gives you **privacy zones** like Close Friends, Guild, Coworkers.  
+You choose what they see — current game, playtime, achievements, or nothing.
 
 ---
 
 ## 🚀 Key Features (Planned)
-- **Multi‑Platform Integration** – Connect Steam, Xbox Live, Epic Games via OAuth.
-- **Granular Privacy Zones** – Custom friend groups with per‑circle visibility toggles.
-- **Temporary Sharing** – Auto‑expiring stat exposure for events.
-- **End‑to‑End Encrypted Chat** – Messages only readable by participants.
-- **Privacy‑Preserving Scheduler** – Show availability without revealing location/schedule.
-- **Real‑Time Updates** – Live status changes via Socket.io.
+- **Multi-Platform Integration** (Steam, Xbox, Epic)
+- **Granular Privacy Zones**
+- **Temporary Sharing**
+- **Encrypted Chat**
+- **Privacy-Preserving Scheduler**
+- **Real-Time Updates**
 
 ---
 
 ## 🛠️ Tech Stack (Proposed)
 | Area        | Technologies |
 |-------------|--------------|
-| Frontend    | React / Vue + Tailwind CSS / Material‑UI |
-| Backend     | Node.js + Express / Python + Django |
-| Database    | MongoDB (flexible permissions) / PostgreSQL |
-| Real‑Time   | Socket.io |
-| OAuth       | Passport.js / custom integrations |
-| Encryption  | Web Crypto API / libsodium.js (client‑side) |
-| Deployment  | Docker, AWS, Heroku, Vercel |
+| Frontend    | React / Vue |
+| Backend     | Node.js / Django |
+| Database    | MongoDB / PostgreSQL |
+| Real-Time   | Socket.io |
+| OAuth       | Passport.js |
+| Encryption  | Web Crypto / Libsodium |
+| Deployment  | Docker, AWS, Vercel |
 
 ---
 
-## 🏁 Get Started (for Contributors)
-1. **Fork** this repository.
+## 🏁 Get Started (For Contributors)
+1. **Fork** this repo  
 2. **Clone** your fork:
    ```bash
    git clone https://github.com/Harsha240105/GuildVault.git
+   ```
+3. Setup your development environment  
+4. Pick an issue to work on  
+5. Join Discord to collaborate
+
+---
+
+## 🤝 How to Contribute
+- Check `CONTRIBUTING.md`
+- Choose an issue
+- Discuss in Discord
+- Follow the Code of Conduct
+
+---
+
+## 📌 Roadmap
+- **Phase 1:** Steam + Friend Groups  
+- **Phase 2:** Xbox/Epic + Encrypted Chat  
+- **Phase 3:** Mobile App + Public Beta  
+
+---
+
+## 📄 License
+Licensed under **MIT License** — see `LICENSE`.
+
+---
+
+## 💬 Contact
+- Discord: `YOUR_INVITE_LINK`
+- GitHub Issues: Report bugs / ideas
+- Email: **your.email@example.com**
