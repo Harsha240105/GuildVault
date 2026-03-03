@@ -1,7 +1,7 @@
 # 🎮 GuildVault
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Discord](https://img.shields.io/badge/Discord-Join%20us-7289da?logo=discord)](https://discord.gg/YOUR_INVITE_LINK)
+[![Discord](https://img.shields.io/badge/Discord-Join%20us-7289da?logo=discord)](https://discord.gg/pmfwVx7cwR)
 [![GitHub issues](https://img.shields.io/github/issues/Harsha240105/GuildVault)](https://github.com/Harsha240105/GuildVault/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Email](https://img.shields.io/badge/Email-contact-blue?logo=gmail)](mailto:your.email@example.com)
