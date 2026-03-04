@@ -6,8 +6,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Email](https://img.shields.io/badge/Email-contact-blue?logo=gmail)](mailto:your.email@example.com)
 
-![Uploading GuildVault.png…]()
-
 **Take control of your gaming identity.**  
 GuildVault is a cross-platform dashboard that aggregates your gaming stats from Steam, Xbox, Epic Games, and more – and lets you share them with **granular privacy controls**.
 
