@@ -1,10 +1,11 @@
 # 🎮 GuildVault
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Discord](https://img.shields.io/badge/Discord-Join%20us-7289da?logo=discord)](https://discord.gg/pmfwVx7cwR)
-[![GitHub issues](https://img.shields.io/github/issues/Harsha240105/GuildVault)](https://github.com/Harsha240105/GuildVault/issues)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Email](https://img.shields.io/badge/Email-contact-blue?logo=gmail)](mailto:your.email@example.com)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green.svg)
+![Issues](https://img.shields.io/github/issues/Harsha240105/GuildVault)
+![Stars](https://img.shields.io/github/stars/Harsha240105/GuildVault)
+![Forks](https://img.shields.io/github/forks/Harsha240105/GuildVault)
 
 **Take control of your gaming identity.**  
 GuildVault is a cross-platform dashboard that aggregates your gaming stats from Steam, Xbox, Epic Games, and more – and lets you share them with **granular privacy controls**.
