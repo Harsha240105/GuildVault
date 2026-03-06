@@ -9,6 +9,8 @@
 **Take control of your gaming identity.**  
 GuildVault is a cross-platform dashboard that aggregates your gaming stats from Steam, Xbox, Epic Games, and more – and lets you share them with **granular privacy controls**.
 
+![image alt](https://github.com/Harsha240105/GuildVault/blob/c5b6073b40ab8c82fc7e90d29cc8143b779b8096/GuildVault-2.png)
+
 ---
 
 ## ✨ Why GuildVault?
